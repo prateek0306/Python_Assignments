@@ -1,5 +1,5 @@
 # take inputs from user
-numbers=int(input('enter number of elements of list: '))
+numbers=5
 list = []
 for i in range(numbers):
     n=int(input('Enter list numbers: '))
