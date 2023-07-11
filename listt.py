@@ -29,5 +29,5 @@ t1=tuple(list)
 print('Converted list: ',t1)
 
 # delete list
-del t1
+del list
 print('List is deleted successfully')
