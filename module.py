@@ -1,6 +1,5 @@
 from file_operations import *
 
-# Create an instance of FileOperations
 file_obj = FileOperation("assign9.txt")
 
 # Test the write_file() method
